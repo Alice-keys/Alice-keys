@@ -18,7 +18,7 @@
 
 - 🎓 Estudiante de **Ingeniería de Software** en la UPC
 - 💻 Construyo aplicaciones web con **Vue 3 + Vite**
-- 🌸 Mis proyectos: [Skin Lab](https://skin-lab.onrender.com) · [Blooming Fit](https://blooming-fit.onrender.com) · [Portafolio](URL_PORTAFOLIO)
+- 🌸 Mis proyectos: [Skin Lab](https://skin-lab.onrender.com) · [Blooming Fit](https://blooming-fit.onrender.com) · [Portafolio](https://avril-portfolio.onrender.com)
 - 🎯 Actualmente aprendiendo **backend con Spring Boot**
 - 🐱 Amante de los gatos y del rosa pastel
 
@@ -86,7 +86,7 @@
 ### 📫 Encuéntrame en
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8bbd0?style=for-the-badge&logo=linkedin&logoColor=e75480)](https://pe.linkedin.com/in/alicia-navarro-chang-8599823a6)
-[![Portafolio](https://img.shields.io/badge/Portafolio-f8bbd0?style=for-the-badge&logo=googlechrome&logoColor=e75480)](URL_PORTAFOLIO)
+[![Portafolio](https://img.shields.io/badge/Portafolio-f8bbd0?style=for-the-badge&logo=googlechrome&logoColor=e75480)](https://avril-portfolio.onrender.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDAB9,50:FFC3A0,100:FFB6C1&height=120&section=footer" width="100%"/>
 
