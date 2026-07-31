@@ -1,10 +1,14 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFC3A0,100:FFDAB9&height=180&section=header&text=Hola,%20soy%20Alicia%20🌸&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
-  
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&pause=1000&color=F472B6&center=true&vCenter=true&width=460&lines=Frontend+Developer+·+Vue.js;Software+Engineering+student+@+UPC;Creciendo+hacia+full+stack+🌸" />
 
-<img src="https://media.tenor.com/HMvPUy4QbzoAAAAM/cat-hello.gif" width="180"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFC3A0,100:FFDAB9&height=180&section=header&text=Hola,%20soy%20Alicia%20🌸&fontSize=44&fontColor=F9A8C9&fontAlignY=35&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1&pause=100000&color=E75480&center=true&vCenter=true&width=600&lines=Frontend+Developer+%C2%B7+Vue.js" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=1&pause=100000&color=F9A8C9&center=true&vCenter=true&width=600&lines=Software+Engineering+student+%40+UPC+%C2%B7+Creciendo+hacia+full+stack" />
+
+<br>
+
+<img src="https://media.tenor.com/HMvPUy4QbzoAAAAM/cat-hello.gif" width="250"/>
 
 </div>
 
@@ -52,8 +56,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alice-keys&show_icons=true&title_color=e75480&icon_color=f48fb1&text_color=8d6e82&bg_color=fff0f5&border_color=f8bbd0&rounded=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-keys&layout=compact&title_color=e75480&text_color=8d6e82&bg_color=fff0f5&border_color=f8bbd0" width="40%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alice-keys&show_icons=true&title_color=e75480&icon_color=f48fb1&text_color=8d6e82&bg_color=fff0f5&border_color=f8bbd0" width="65%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alice-keys&layout=compact&langs_count=6&title_color=e75480&text_color=8d6e82&bg_color=fff0f5&border_color=f8bbd0" width="65%"/>
 
 </div>
 
@@ -61,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Alice-keys/Alice-keys/output/github-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Alice-keys/Alice-keys/output/github-snake.svg" width="100%"/>
 
 </div>
 
