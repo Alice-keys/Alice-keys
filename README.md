@@ -67,7 +67,7 @@
 ---
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Alice-keys/Alice-keys/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/Alice-keys/Alice-keys/main/profile-3d-contrib/profile-pink.svg" width="90%"/>
 
 </div>
 
